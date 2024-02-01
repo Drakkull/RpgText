@@ -139,6 +139,8 @@ public class RpgText {
 
         }
 
+        //TESTE
+
         System.out.println("-------THANK YOU FOR PLAYING THIS SHIT GAME-----------");
 
 
